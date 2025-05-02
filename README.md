@@ -1,2 +1,2 @@
 # Admin-Finder
-Find by keyoword
+Find by keyword
